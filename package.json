@@ -68,6 +68,9 @@
     "react-bootstrap": "^2.0.2",
     "react-dom": "^16.14.0"
   },
+  "overrides": {
+    "lodash": "4.17.21"
+  },
   "jest": {
     "testEnvironment": "jsdom",
     "setupFilesAfterEnv": [
