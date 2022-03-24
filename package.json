@@ -69,7 +69,9 @@
     "react-dom": "^16.14.0"
   },
   "overrides": {
-    "lodash": "4.17.21"
+    "lodash": {
+      ".": "4.17.21"
+    }
   },
   "jest": {
     "testEnvironment": "jsdom",
